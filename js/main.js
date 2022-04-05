@@ -6,8 +6,8 @@ let name2 = 'secondNumber';
 
 let number2 = 10;
 
-function sum(number1, number2) {
-    let result = number1 + number2;
+function sum(num1, num2) {
+    let result = num1 + num2;
 
     return result;
 }
